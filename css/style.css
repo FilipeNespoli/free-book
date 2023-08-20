@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: lightblue;
+}
+
+.logo-site {
+    padding: 10px 15px 0 15px;
+}
+
+.subtitle {
+    padding: 5px 15px;
+}
+
+main {
+    height: 500px;
+    background-color: #e4e4e4;
+}
+
+section {
+    padding: 30px 90px;
+}
+
+footer {
+    background-color: #3b3b3b;
+    height: 150px;
+}
+
+.direitos-reservados {
+    color: #e4e4e4;
+    padding: 15px;
+}
